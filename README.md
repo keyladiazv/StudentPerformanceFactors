@@ -115,18 +115,14 @@ Las predicciones siguen adecuadamente la tendencia general de los datos, aunque 
 
 ### Matriz de Correlación
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1PF5DxNZPJ5dLuYA0nmSXO4mxoigz8Kay/view?usp=sharing" alt="Matriz de Correlación" width="70%">
-</p>
+[Ver Matriz de Correlación](https://drive.google.com/file/d/1PF5DxNZPJ5dLuYA0nmSXO4mxoigz8Kay/view?usp=sharing)
 
 
 ### Pairplot
-<p align="center">
-  <img src="https://drive.google.com/file/d/100JNEJCmf714iLG-hL3CQqKx_YBKaabg/view?usp=sharing" alt="Pairplot" width="70%">
-</p>
+
+[Ver Pairplot](https://drive.google.com/file/d/100JNEJCmf714iLG-hL3CQqKx_YBKaabg/view?usp=sharing)
 
 ### Predicciones vs Valores Reales
-<p align="center">
-  <img src="https://drive.google.com/file/d/1A5eheTRdC3hVyOiKnjGcI0X-9gzhdKLb/view?usp=sharing" alt="Predicciones vs Valores Reales" width="70%">
-</p>
+
+[Ver Predicciones vs Valores Reales](https://drive.google.com/file/d/1A5eheTRdC3hVyOiKnjGcI0X-9gzhdKLb/view?usp=sharing
 
